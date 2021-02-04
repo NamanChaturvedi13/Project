@@ -1,3 +1,4 @@
 Hello world...,,,
 Change to fix bug1
 This is a modified file
+Change 2:To fix bug 2 for 3 way merging
