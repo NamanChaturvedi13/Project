@@ -1,4 +1,7 @@
 Hello world...,,,
 Change to fix bug1
 This is a modified file
-change : team made change ,3-way merging
+
+Change 1:To fix bug 2 for 3 way merging
+
+change 2: team made change ,3-way merging
