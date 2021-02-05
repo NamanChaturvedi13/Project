@@ -18,4 +18,6 @@ change 7:->change for stash
 
 change 8:->to test for the remote repository
 
-change 9:-> to test pull operation fromremote master to local
+change 9:-> to test pull operation from remote master to local
+
+change 10:->change for bug3 on remote master by teammate to test rebase
