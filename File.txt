@@ -15,3 +15,5 @@ change 5:-> team made change ,3-way merging
 change 6:-> for enhancement1 using REBASE
 
 change 7:->change for stash
+
+change 8:->to test for the remote repository
