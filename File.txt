@@ -13,4 +13,5 @@ Change 4:->To fix bug 2 for 3 way merging
 change 5:-> team made change ,3-way merging
 
 change 6:-> for enhancement1 using REBASE
-(for enhancement1 using REBASE,and added arrows)
+
+change 7:->change for stash
